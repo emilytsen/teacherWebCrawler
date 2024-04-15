@@ -1,7 +1,7 @@
-Name,Link,College,Email
-Evgeny Dantsin,https://www.roosevelt.edu/profile/edantsin,» Computer Science,edantsin@roosevelt.edu
-Saba Jamaliannasrabadi,https://www.roosevelt.edu/profile/sjamaliannasrabadi,» Computer Science,sjamaliannasrabadi@roosevelt.edu
-Michael Ruth,https://www.roosevelt.edu/profile/mruth,» Computer Science,mruth@roosevelt.edu
-Rami Salahieh,https://www.roosevelt.edu/profile/msalahieh,» Computer Science,msalahieh@roosevelt.edu
-Alex Wolpert,https://www.roosevelt.edu/profile/awolpert,» Computer Science,awolpert@roosevelt.edu
-Ray Wright,https://www.roosevelt.edu/profile/rwright,» Computer Science,rwright@roosevelt.edu
+College,Name,Link,Course,Email,Research Area
+Rosevelt University,Evgeny Dantsin,https://www.roosevelt.edu/profile/edantsin,» Computer Science,edantsin@roosevelt.edu,"theoretical computer sciencePrimary research area: algorithm design and computational complexity.Recent publications:E. Dantsin and A. Wolpert.An Isomorphism-Invariant Distance Function on Propositional Formulas in CNF.E. Dantsin, V. Kreinovich, and A. Wolpert.An AlphaZero-Inspired Approach to Solving Search Problems.(arXiv version).Most cited publications (according toGoogle Scholar):E. Dantsin, T. Eiter, G. Gottlob, and A. Voronkov.Complexity and expressive power of logic programming.E. Dantsin, A. Goerdt, E. A. Hirsch, R. Kannan, J. Kleinberg, C. H. Papadimitriou, P. Raghavan, and U. Schöning.A deterministic (2-2/(k+1))^n algorithm for k-SAT based on local search."
+Rosevelt University,Saba Jamaliannasrabadi,https://www.roosevelt.edu/profile/sjamaliannasrabadi,» Computer Science,sjamaliannasrabadi@roosevelt.edu,NaN
+Rosevelt University,Michael Ruth,https://www.roosevelt.edu/profile/mruth,» Computer Science,mruth@roosevelt.edu,Software Engineering
+Rosevelt University,Rami Salahieh,https://www.roosevelt.edu/profile/msalahieh,» Computer Science,msalahieh@roosevelt.edu,NaN
+Rosevelt University,Alex Wolpert,https://www.roosevelt.edu/profile/awolpert,» Computer Science,awolpert@roosevelt.edu,Theoretical Computer ScienceTheory of algorithms and Complexity
+Rosevelt University,Ray Wright,https://www.roosevelt.edu/profile/rwright,» Computer Science,rwright@roosevelt.edu,"Bachelor's in Cyber and Information Security, BS"
